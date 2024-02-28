@@ -1,2 +1,3 @@
-# Python
-Python Study
+### Python
+- **功能方案：** Python基础语法
+- **设计流程：** 类和函数的功能和用法
